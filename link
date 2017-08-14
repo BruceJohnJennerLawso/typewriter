@@ -1,0 +1,5 @@
+#!/bin/bash
+
+g++ typewriter.o -lsfml-graphics -lsfml-system -lsfml-window -lsfml-audio -o typewriter
+
+exit 0
